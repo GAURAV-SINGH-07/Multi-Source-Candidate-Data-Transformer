@@ -1,0 +1,19 @@
+{
+  "_comment": "Default projection config — controls what the output JSON looks like.",
+  "fields": {
+    "candidate_id":      { "include": true,  "rename": null },
+    "full_name":         { "include": true,  "rename": "name" },
+    "emails":            { "include": true,  "rename": null },
+    "phones":            { "include": true,  "rename": null },
+    "location":          { "include": true,  "rename": null },
+    "links":             { "include": true,  "rename": null },
+    "headline":          { "include": true,  "rename": null },
+    "years_experience":  { "include": true,  "rename": "experience_years" },
+    "skills":            { "include": true,  "rename": null },
+    "experience":        { "include": true,  "rename": "work_history" },
+    "education":         { "include": true,  "rename": null }
+  },
+  "include_confidence":  true,
+  "include_provenance":  false,
+  "missing_value_policy": "null"
+}

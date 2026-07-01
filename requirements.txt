@@ -1,0 +1,9 @@
+pydantic>=2.7,<3.0
+PyMuPDF>=1.24,<2.0
+phonenumbers>=8.13,<9.0
+python-dateutil>=2.9,<3.0
+pycountry>=24.6,<25.0
+rapidfuzz>=3.9,<4.0
+streamlit>=1.35,<2.0
+pytest>=8.2,<9.0
+pytest-cov>=5.0,<6.0

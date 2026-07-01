@@ -1,0 +1,4 @@
+full_name,email,phone,location,linkedin_url,headline,skills,years_experience
+"Priya Sharma","priya.sharma@email.com","+91-98765-43210","Bangalore, India","https://linkedin.com/in/priyasharma","Senior Data Engineer","Python,Apache Spark,Kafka,Airflow,SQL,AWS",6
+"Amit Verma","amit.verma@gmail.com","09876543211","Mumbai IN","linkedin.com/in/amitverma","Full Stack Developer","JavaScript,React,Node.js,PostgreSQL,Docker",4
+"Sarah Connor","sarah.connor@company.org","+1 (415) 555-0192","San Francisco, USA","https://www.linkedin.com/in/sarahconnor","Machine Learning Engineer","python,tensorflow,pytorch,scikit learn,kubernetes",8
