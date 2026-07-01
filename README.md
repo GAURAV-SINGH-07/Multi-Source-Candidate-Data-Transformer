@@ -383,4 +383,3 @@ Keeping normalization and merge separate means each is independently testable an
 
 ---
 
-*Built by a Senior Software Engineer. SOLID principles. Clean architecture. Production-ready.*
